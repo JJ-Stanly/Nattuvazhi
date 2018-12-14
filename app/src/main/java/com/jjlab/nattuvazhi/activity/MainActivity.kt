@@ -1,7 +1,8 @@
-package com.jjlab.nattuvazhi
+package com.jjlab.nattuvazhi.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.jjlab.nattuvazhi.R
 
 class MainActivity : AppCompatActivity() {
 
